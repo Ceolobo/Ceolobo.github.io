@@ -3,9 +3,9 @@ layout: default
 title: Testing Site
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="rpgstuffs">
 
-	  {% for post in site.rpgstuff %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for rpgstuff in site.rpgstuffs %}
+	    <li><span>{{ rpgstuff.date | date_to_string }}</span> » <a href="{{ rpgstuff.url }}" title="{{ rpgstuff.title }}">{{ rpgstuff.title }}</a></li>
 	  {% endfor %}
 	</ul>
