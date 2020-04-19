@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Not-D&D with the Wolf"
+title: "Not-D&D with the Sky Wolf"
 date: 2020-04-19
 ---
 
