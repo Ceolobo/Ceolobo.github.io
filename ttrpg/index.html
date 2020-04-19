@@ -3,7 +3,7 @@ layout: default
 title: Testing Site
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="rpgstuffs">
+	<ul class="posts">
 
 	  {% for rpgstuff in site.rpgstuffs %}
 	    <li><span>{{ rpgstuff.date | date_to_string }}</span> » <a href="{{ rpgstuff.url }}" title="{{ rpgstuff.title }}">{{ rpgstuff.title }}</a></li>
