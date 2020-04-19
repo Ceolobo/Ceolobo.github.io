@@ -1,3 +1,9 @@
 name: Ceolobo, the Sky Wolf
+
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
+permalink: /:categories/:title
+
+collections:
+  rpgstuffs:
+    output: true
