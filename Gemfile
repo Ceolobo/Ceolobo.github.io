@@ -8,3 +8,17 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll"
 gem "jekyll-theme-hydejack"
+
+group :jekyll_plugins do
+  gem 'jekyll-default-layout'
+  gem 'jekyll-feed'
+  gem 'jekyll-optional-front-matter'
+  gem 'jekyll-paginate'
+  gem 'jekyll-readme-index'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-relative-links'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-titles-from-headings'
+  gem 'jekyll-replace-img'
+end
