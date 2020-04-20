@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Saskia Leymann
+cover: true
 ---
 
 Hello, world! My name is Saskia Leymann and I am currently a PhD student at the University of Amsterdam, researching the prosodic features of irony and satirical speech in political contexts.
