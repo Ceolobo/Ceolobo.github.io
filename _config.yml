@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://skysdata.de
+url:                  https://skysdata.de
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -41,25 +41,28 @@ logo:                  /images/myface.jpg
 author:
   name:                Saskia Leymann
   email:               s.leymann@skysdata.de
+  github:              https://github.com/Ceolobo
+  about: |
+    Hi, I'm Saskia Leymann.
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
+  - title:             CV
+    url:               /cv/
+  - title:             Portfolio
+    url:               /portfolio/
+  - title:             Side Projects
+    url:               /projects/
   - title:             About
     url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
-#   - title:             Impress
-#     url:               /impress/
+legal:
+  - title:             Sidebar image credit Patrick Baum @ Unsplash
+    url:               https://unsplash.com/@gecko81de?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/
 
@@ -155,7 +158,7 @@ hydejack:
   no_google_fonts:     false
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    true
+  no_mark_external:    false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
@@ -172,15 +175,15 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis.
   # This will increase site build speed!
-  no_page_style:       false
+  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
-  no_break_layout:     false
+  no_break_layout:     true
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
-  no_structured_data:  false
+  no_structured_data:  true
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
@@ -300,11 +303,10 @@ remote_theme: qwtel/hydejack@gem
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                  Saskia Leymann
+  links:
+    - https://github.com/<username>
 
 
 # Other Plugins
