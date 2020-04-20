@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Saskia Leymann
 cover: true
 ---
