@@ -9,4 +9,4 @@ Hello, world! My name is Saskia Leymann and I am currently a PhD student at the 
 My main interests lie with the production and processing of non-literal language as well as the communicative effects achieved through such language. I also have a deep interest in data science, especially model development and visualization.  
 In my free time, I hike, study data science and programming, and play tabletop rpg games with my friends.
 
-On this site, I will introduce myself and my current projects.
+On this site, I will introduce myself and my current new projects.
