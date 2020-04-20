@@ -283,8 +283,8 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-remote_theme: qwtel/hydejack@v8
+# theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -312,7 +312,7 @@ remote_theme: qwtel/hydejack@v8
 social:
   name:                  Saskia Leymann
   links:
-    - https://github.com/<username>
+    - https://github.com/Ceolobo
 
 
 # Other Plugins
