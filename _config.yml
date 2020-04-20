@@ -7,5 +7,3 @@ permalink: /:categories/:title
 collections:
   rpgstuffs:
     output: true
-
-theme: jekyll-theme-midnight
