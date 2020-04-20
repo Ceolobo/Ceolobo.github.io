@@ -1,9 +1,2 @@
-name: Ceolobo, the Sky Wolf
-
-markdown: kramdown
-
-permalink: /:categories/:title
-
-collections:
-  rpgstuffs:
-    output: true
+theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack

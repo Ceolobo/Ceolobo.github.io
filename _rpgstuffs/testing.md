@@ -1,7 +1,0 @@
----
-layout: post
-title: "Test"
-date: 2020-04-19
----
-
-This is a test!
