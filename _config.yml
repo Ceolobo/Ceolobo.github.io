@@ -39,11 +39,17 @@ logo:                  /images/myface.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Saskia Leymann
-  email:               s.leymann@skysdata.de
-  github:              https://github.com/Ceolobo
+  name: Saskia Leymann
+  email: s.leymann@skysdata.de
   about: |
-    Hi, I'm Saskia Leymann.
+    S. Leymann
+    The author of this site.
+  picture:
+    path: /images/myface.jpg
+  social:
+    email: s.leymann@skysdata.de
+    github: Ceolobo
+    skype: https://join.skype.com/invite/dld6fitKMadp
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
