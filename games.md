@@ -12,13 +12,13 @@ I want to use this site as a sort of hub for us to have the links for everything
 ### Warhammer
 
 [Session Notes](http://hackmd.io/@departmentof-felonies/tagindex)  
-[AJ's fillable Character Sheet](/pdfs/wfrpg4_charactersheet_fillable.pdf)
+[AJ's fillable Character Sheet (pdf)](/pdfs/wfrpg4_charactersheet_fillable.pdf)
 
 #### Filled-in Sheets
 
-[Gwynn Lohwald](/pdfs/Gwynn Lohwald.pdf)
+[Gwynn Lohwald (pdf)](/pdfs/Gwynn Lohwald.pdf)
 
 ### D&D
 
-[Chronica Campaign](https://www.chronica.ventures/campaigns/2146)
-[History of Preora - Abridged](/pdfs/Campaign Info.pdf)
+[Chronica Campaign](https://www.chronica.ventures/campaigns/2146)  
+[History of Preora - Abridged (pdf)](/pdfs/Campaign Info.pdf)
