@@ -21,3 +21,4 @@ I want to use this site as a sort of hub for us to have the links for everything
 ### D&D
 
 [Chronica Campaign](https://www.chronica.ventures/campaigns/2146)
+[History of Preora - Abridged](/pdfs/Campaign Info.pdf)
