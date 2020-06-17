@@ -25,5 +25,4 @@ I want to use this site as a sort of hub for us to have the links for everything
 [History of Preora - Abridged (pdf)](/pdfs/Campaign-Info.pdf)
 
 And here's the link to my testing site:  
-[JS Test](/test.html)
 [JSMD Test](/test.md)
