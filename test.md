@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+layout: base
+title: JS test
+---
+
 <html>
 <body>
 
