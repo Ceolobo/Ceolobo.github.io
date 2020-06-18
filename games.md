@@ -26,3 +26,5 @@ I want to use this site as a sort of hub for us to have the links for everything
 
 And here's the link to my testing site:  
 [JSMD Test](/test.md)
+
+[Pytest](/testpy.md)
