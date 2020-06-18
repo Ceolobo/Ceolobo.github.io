@@ -11,6 +11,12 @@ title: PYTest
 
 <p id="demo"></p>
 
+<script>
+document.getElementById("demo").innerHTML = 5 + 6;
+</script>
+
+<p> Second Paragraph</p>
+
 <p id="demo2"></p>
 
 <script>
@@ -20,8 +26,6 @@ $.ajax({
      document.getElementById("demo2").innerHTML = response;
    }
 });
-
-document.getElementById("demo").innerHTML = 5 + 6;
 </script>
 
 </body>
