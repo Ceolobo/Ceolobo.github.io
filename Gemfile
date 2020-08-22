@@ -21,4 +21,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-titles-from-headings'
   gem 'jekyll-replace-img'
+  gem 'kramdown-parser-gfm'
 end
