@@ -279,13 +279,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-replace-img
-  - jekyll-theme-hydejack
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
