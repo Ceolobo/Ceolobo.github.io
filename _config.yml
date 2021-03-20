@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                  https://skysdata.de
+url:                  https://skysdata.net
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -40,14 +40,14 @@ logo:                  /images/myface.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name: Saskia Leymann
-  email: s.leymann@skysdata.de
+  email: saskia@sleymann.de
   about: |
     S. Leymann
     The author of this site.
   picture:
     path: /images/myface.jpg
   social:
-    email: s.leymann@skysdata.de
+    email: saskia@sleymann.de
     github: Ceolobo
     skype: https://join.skype.com/invite/dld6fitKMadp
   # Used by `jekyll-seo-tag`:
